@@ -1,5 +1,10 @@
 # connectors
 Final Group Project Submission for CS34 - Web Technologies course at Ashesi University. Group members were:
+- Ademide Mubarak Adebanjo
+- Cindy Wanyika Kilonzo
+- Zeinab Amadou Hamidou
+- Josephine Forgive Doamekpor
+  
 ## Features
 
 - User authentication (signup/login)
